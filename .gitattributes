@@ -1,1 +1,1 @@
-target/  linguist-documentation=true
+target/* linguist-vendored
