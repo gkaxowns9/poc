@@ -1,1 +1,2 @@
-target/* linguist-vendored
+**/target/** linguist-vendored
+*.ipynb linguist-vendored
